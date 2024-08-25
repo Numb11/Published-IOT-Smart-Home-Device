@@ -2,6 +2,8 @@
 
 This repository holds the source code for a smart mirror device.
 
+https://ojs.ukscip.com/journals/dtra/article/view/259/226
+
 <p align="center">
   <h2>Images</h2>
 </p>

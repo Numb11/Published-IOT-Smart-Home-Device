@@ -8,7 +8,7 @@ environment. These devices can sometimes produce counterproductive effects, comp
 between non-expert end users and the device itself. In this paper, we propose a simple, user-friendly, and cost-
 effective configurable smart mirror, which can display usefully relevant real-time information. This system is
 designed based on a low-cost Raspberry Pi paired with an LCD screen. The system can connect with a personal
-computer (PC) through the IEEE 802.15 wireless communication protocol. The preliminary results in this paper
+computer (PC) through the IEEE 802.15 wireless communication protocol. The preliminary results in this paper show the intuitive usability of the device in daily life.
 
 https://ojs.ukscip.com/journals/dtra/article/view/259/226
 

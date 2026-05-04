@@ -13,7 +13,7 @@ computer (PC) through the IEEE 802.15 wireless communication protocol. The preli
 https://ojs.ukscip.com/journals/dtra/article/view/259/226
 
 <p align="center">
-  <h2>Images</h2>
+  <h2>Implementation:</h2>
 </p>
 
 
